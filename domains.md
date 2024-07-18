@@ -23,7 +23,7 @@ To learn what each of the statuses represent, check out [Status Definitions](htt
 
   This means your domain is not blacklisted or considered to be a suspicious domain, at least for now.
 
-Click [here](https://app.unblock.domains) and tap the toggle to enable Automatic Whitelisting to protect yourself against getting blacklisted in the future.
+  Click [here](https://app.unblock.domains) and tap the toggle to enable Automatic Whitelisting to protect yourself against getting blacklisted in the future.
 
 * **Blacklisted / "Get Unblocked"**
 
