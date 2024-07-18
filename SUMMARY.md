@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Domains](README.md)
+* [Domains](domains.md)
