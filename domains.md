@@ -6,13 +6,13 @@ description: Learn more about how the Domains page works.
 
 ## Introduction
 
-The Domains page shows you which of your domains are being monitored along with their statuses. To&#x20;
+  The Domains page shows you which of your domains are being monitored along with their statuses.
 
-To learn what each of the statuses represent, check out [Status Definitions](https://docs.unblock.domains/#status-definitions).
+  To learn what each of the statuses represent, check out [Status Definitions](https://docs.unblock.domains/#status-definitions).
 
 ## Quick Start
 
-To get started, [visit the dashboard](https://app.unblock.domains) and tap the Import Domains button.
+  To get started, [visit the dashboard](https://app.unblock.domains) and tap the Import Domains button.
 
 ## Status Definitions
 
