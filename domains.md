@@ -12,6 +12,7 @@ To learn what each of the statuses represent, check out [Status Definitions](htt
 
 ## Quick Start
 
+To get started, [visit the dashboard](https://app.unblock.domains) and tap the Import Domains button.
 
 ## Status Definitions
 
