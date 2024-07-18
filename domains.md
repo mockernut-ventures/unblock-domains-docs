@@ -8,7 +8,7 @@ description: Learn more about how the Domains page works.
 
 The Domains page shows you which of your domains are being monitored along with their statuses. To&#x20;
 
-To learn what each of the statuses represent, check out [#status-definitions](/#status-definitions).
+To learn what each of the statuses represent, check out [Status Definitions](https://docs.unblock.domains/#status-definitions).
 
 ## Quick Start
 Test
